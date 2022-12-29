@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4256569394148862837}
   m_Layer: 0
   m_Name: StickyNatto
-  m_TagString: Untagged
+  m_TagString: StickyNatto
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -87,6 +87,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sticky
       objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
 --- !u!4 &97135479939718630 stripped
@@ -104,6 +108,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sticky (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
+      value: Sticky
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
 --- !u!1001 &248347552
@@ -187,6 +191,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 213743403032994815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517113655024420357, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688351819066616593, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336606491374471951, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4256569394148862837, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -231,9 +251,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4290878375686045431, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_Name
       value: StickyNatto (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945356336743197727, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503960187140188992, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5891332162632208569, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459926904916856815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463946372659560184, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510180190061714749, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792886485812979291, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447852914271636673, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
@@ -291,6 +351,10 @@ PrefabInstance:
     - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
       propertyPath: m_Name
       value: Sticky (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
+      value: Sticky
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
@@ -446,6 +510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sticky (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
+      value: Sticky
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
 --- !u!1001 &529016075
@@ -458,6 +526,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -515,6 +587,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -666,6 +742,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 213743403032994815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517113655024420357, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688351819066616593, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336606491374471951, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4256569394148862837, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -710,9 +802,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 89.957
       objectReference: {fileID: 0}
+    - target: {fileID: 4290878375686045431, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_Name
       value: StickyNatto (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945356336743197727, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503960187140188992, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5891332162632208569, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459926904916856815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463946372659560184, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510180190061714749, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792886485812979291, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447852914271636673, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
@@ -726,6 +858,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -783,6 +919,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -934,6 +1074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natto (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
+      objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -990,6 +1134,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -1105,6 +1253,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 213743403032994815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517113655024420357, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688351819066616593, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336606491374471951, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4256569394148862837, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -1149,9 +1313,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90.873
       objectReference: {fileID: 0}
+    - target: {fileID: 4290878375686045431, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_Name
       value: StickyNatto (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945356336743197727, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503960187140188992, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5891332162632208569, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459926904916856815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463946372659560184, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510180190061714749, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792886485812979291, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447852914271636673, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
@@ -1165,6 +1369,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -1219,6 +1427,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 213743403032994815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517113655024420357, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688351819066616593, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336606491374471951, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4256569394148862837, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -1263,9 +1487,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4290878375686045431, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_Name
       value: StickyNatto (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945356336743197727, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503960187140188992, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5891332162632208569, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459926904916856815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463946372659560184, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510180190061714749, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792886485812979291, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447852914271636673, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
@@ -1347,7 +1611,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: -0.0002736745, y: 0.9997146, z: 0.019141162, w: 0.014293617}
-  m_LocalPosition: {x: -1.5901117, y: 3.9308574, z: 18.628836}
+  m_LocalPosition: {x: -1.4711369, y: 3.9308574, z: 18.63224}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1397,6 +1661,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -1455,6 +1723,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natto (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
+      objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -1508,6 +1780,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 213743403032994815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517113655024420357, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688351819066616593, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336606491374471951, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4256569394148862837, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -1552,9 +1840,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 89.447
       objectReference: {fileID: 0}
+    - target: {fileID: 4290878375686045431, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_Name
       value: StickyNatto (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945356336743197727, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503960187140188992, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5891332162632208569, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459926904916856815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463946372659560184, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510180190061714749, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792886485812979291, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447852914271636673, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
@@ -1568,6 +1896,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -1723,6 +2055,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natto (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
+      objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -1815,7 +2151,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.3570534, y: 1}
+    m_SensorSize: {x: 2.1666667, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -1832,7 +2168,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1345749762}
   m_LocalRotation: {x: -0.0002736745, y: 0.9997146, z: 0.019141162, w: 0.014293617}
-  m_LocalPosition: {x: -1.5901117, y: 3.9308574, z: 18.628836}
+  m_LocalPosition: {x: -1.4711369, y: 3.9308574, z: 18.63224}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1607326466}
@@ -1849,6 +2185,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -1903,6 +2243,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 213743403032994815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517113655024420357, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688351819066616593, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336606491374471951, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4256569394148862837, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -1947,9 +2303,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90.164
       objectReference: {fileID: 0}
+    - target: {fileID: 4290878375686045431, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_Name
       value: StickyNatto (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945356336743197727, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503960187140188992, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5891332162632208569, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459926904916856815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463946372659560184, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510180190061714749, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792886485812979291, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447852914271636673, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
@@ -1975,6 +2371,22 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5040669204526810011, guid: a43a0644d1813c749a7e2c2bd260c0a8, type: 3}
   m_PrefabInstance: {fileID: 5040669203227861431}
   m_PrefabAsset: {fileID: 0}
+--- !u!54 &1589092910
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589092904}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 116
+  m_CollisionDetection: 0
 --- !u!1001 &1597042231
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1982,6 +2394,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 213743403032994815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517113655024420357, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688351819066616593, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336606491374471951, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4256569394148862837, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -2026,9 +2454,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -84.867
       objectReference: {fileID: 0}
+    - target: {fileID: 4290878375686045431, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_Name
       value: StickyNatto (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945356336743197727, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503960187140188992, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5891332162632208569, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459926904916856815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463946372659560184, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510180190061714749, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792886485812979291, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447852914271636673, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
@@ -2158,6 +2626,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natto (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
+      objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
       value: 35
@@ -2214,6 +2686,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -2349,6 +2825,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sticky (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
+      value: Sticky
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
 --- !u!1001 &1735776355
@@ -2405,6 +2885,10 @@ PrefabInstance:
     - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
       propertyPath: m_Name
       value: Sticky (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
+      value: Sticky
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
@@ -2463,6 +2947,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sticky (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
+      value: Sticky
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
 --- !u!1001 &1846301989
@@ -2520,6 +3008,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sticky (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
+      value: Sticky
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
 --- !u!1001 &1929960760
@@ -2532,6 +3024,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -2590,6 +3086,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natto (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
+      objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -2646,6 +3146,10 @@ PrefabInstance:
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
       value: Natto (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
@@ -2716,6 +3220,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natto (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
+      objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -2773,6 +3281,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natto (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
+      value: Natto
+      objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -2826,6 +3338,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 213743403032994815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517113655024420357, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688351819066616593, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336606491374471951, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4256569394148862837, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_RootOrder
       value: 41
@@ -2870,8 +3398,48 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4290878375686045431, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
     - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
       propertyPath: m_Name
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795004377816816209, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945356336743197727, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503960187140188992, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 5891332162632208569, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459926904916856815, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463946372659560184, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510180190061714749, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792886485812979291, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
+      value: StickyNatto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447852914271636673, guid: c1581c7f761b9f64bb62770f18d00634, type: 3}
+      propertyPath: m_TagString
       value: StickyNatto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -2925,6 +3493,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5040669204526810011, guid: a43a0644d1813c749a7e2c2bd260c0a8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5040669204526810014, guid: a43a0644d1813c749a7e2c2bd260c0a8, type: 3}
+      propertyPath: m_Direction
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5040669204526810014, guid: a43a0644d1813c749a7e2c2bd260c0a8, type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5040669204526810015, guid: a43a0644d1813c749a7e2c2bd260c0a8, type: 3}
@@ -2986,6 +3562,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
       propertyPath: m_Name
+      value: Sticky
+      objectReference: {fileID: 0}
+    - target: {fileID: 8128633995754344714, guid: 07d848b2f2b6aea47864e9bf98c108fb, type: 3}
+      propertyPath: m_TagString
       value: Sticky
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -3054,8 +3634,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 586446091953670028, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
       propertyPath: m_Name
+      value: Natto
+      objectReference: {fileID: 0}
+    - target: {fileID: 2404766033077817964, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
+      propertyPath: m_TagString
       value: Natto
       objectReference: {fileID: 0}
     - target: {fileID: 6987749058988262958, guid: f593c8a9b8bb1a642a17d07288119b7b, type: 3}
